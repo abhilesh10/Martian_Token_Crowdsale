@@ -29,3 +29,29 @@ The steps for this assignment are divided into the following subsections:
 4. Deploy and Test the Crowdsale on a Local Blockchain
 
 ## Results 
+
+Deploying Crowdsale
+
+![alt=""](Results/kaseicoin.png)
+![alt=""](Results/kaseicrowd.png)
+![alt=""](Results/kaseicrowd2.png)
+
+Testing Crowdsale
+
+Deployed two contracts
+
+Contract 1
+![alt=""](Results/deploy1.png)
+![alt=""](Results/balance1.png)
+
+Contract 2
+![alt=""](Results/deploy2.png)
+![alt=""](Results/balance2.png)
+
+MetaMask results
+
+![alt=""](Results/metamask1.png)
+![alt=""](Results/metamask2.png)
+
+Ganche result
+![alt=""](Results/ganche.png)
